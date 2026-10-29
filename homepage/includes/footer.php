@@ -1,0 +1,2 @@
+<?php
+// Shared page footer

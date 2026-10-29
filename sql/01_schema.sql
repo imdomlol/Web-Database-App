@@ -1,0 +1,1 @@
+-- DDL: CREATE TABLE statements
