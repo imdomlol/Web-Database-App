@@ -76,7 +76,7 @@ Web-Database-App/
 | Entities | Cardinality | Notes |
 |---|---|---|
 | Department -> Course | 1:N | |
-| Course -> Course | M:N | Prerquisite relationship | 
+| Course -> Course | M:N | Prerequisite relationship | 
 | Course -> Section | 1:N | |
 | Professor -> Section | 1:N | |
 | Professor -> Department | 1:1 | |
