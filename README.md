@@ -6,7 +6,7 @@ This project will use a MySQL database and PHP to build a web database applicati
 
 ## Group
 - Dominic Dionne
-- 
+- Jose Mejias
 - 
 
 ## Project Structure
@@ -76,7 +76,7 @@ Web-Database-App/
 | Entities | Cardinality | Notes |
 |---|---|---|
 | Department -> Course | 1:N | |
-| Course -> Course | M:N | |
+| Course -> Course | M:N | Prerquisite relationship | 
 | Course -> Section | 1:N | |
 | Professor -> Section | 1:N | |
 | Professor -> Department | 1:1 | |
