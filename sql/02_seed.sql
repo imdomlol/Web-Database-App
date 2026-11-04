@@ -1,1 +1,4 @@
--- sample data
+-- 02_seed.sql
+-- Sample records minimum reqs:
+-- students 8, departments 2, professors 3
+-- courses 4, sections 6, enrollments 20
