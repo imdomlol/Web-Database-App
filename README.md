@@ -7,7 +7,7 @@ This project will use a MySQL database and PHP to build a web database applicati
 ## Group
 - Dominic Dionne
 - Jose Mejias
-- 
+- Aaditya Shukla
 
 ## Project Structure
 ```
