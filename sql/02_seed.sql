@@ -107,7 +107,7 @@ VALUES ('100000007', 'Ethan', 'Martinez', '130 Main St, Fullerton, CA 92831', '7
 
 
 
---Student
+--Student Minor
 INSERT INTO student_minor (cwid, dept_no)
 VALUES ('100000000', 2);
 
